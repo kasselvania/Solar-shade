@@ -1,0 +1,47 @@
+# OS and editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+secrets/
+credentials/
+*.pem
+*.key
+*.crt
+wifi-config.*
+private/
+
+# Build outputs
+build/
+dist/
+out/
+target/
+.pio/
+.venv/
+__pycache__/
+*.pyc
+*.elf
+*.bin
+*.map
+
+# ESP-IDF local outputs
+sdkconfig.old
+dependencies.lock.local
+managed_components/
+
+# CAD / fabrication temporary files
+*.bak
+*.tmp
+*.autosave
+~$*
+
+# Local evidence staging
+evidence-private/
+captures-private/
