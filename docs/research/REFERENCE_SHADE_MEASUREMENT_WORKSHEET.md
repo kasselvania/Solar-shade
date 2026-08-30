@@ -196,7 +196,7 @@ reason:
 Use newtons where possible. If the gauge reads kilograms-force or pounds-force, preserve the raw unit and convert separately.
 
 | Trial | Direction | Shade region | Reading type | Raw value | Raw unit | Converted N | Notes |
-|---:|---|---|---|---:|---:|---:|---|
+|---:|---|---|---|---|---:|---:|---|
 | 1 | open | bottom | breakaway | | | | |
 | 2 | open | bottom | running | | | | |
 | 3 | open | bottom | peak | | | | |
