@@ -1,0 +1,237 @@
+{
+  "schema_version": 1,
+  "generated": "2026-08-29",
+  "hash_algorithm": "sha256",
+  "notes": [
+    "Register files are excluded from self-hashing.",
+    "CURRENT_SLICE.md is the sole live implementation or experimental authority.",
+    "Research candidates are not component qualification."
+  ],
+  "documents": [
+    {
+      "path": ".github/ISSUE_TEMPLATE/slice-proposal.md",
+      "document_class": "process-template",
+      "authority": "operational",
+      "status": "ACTIVE",
+      "updated": "2026-08-29",
+      "bytes": 872,
+      "sha256": "b1be074a0f16e8bf6cb6fcecfde493427888f51dfc05c4bfa884594e4c38fdbf"
+    },
+    {
+      "path": ".github/pull_request_template.md",
+      "document_class": "process-template",
+      "authority": "operational",
+      "status": "ACTIVE",
+      "updated": "2026-08-29",
+      "bytes": 1040,
+      "sha256": "7e2339bfbf8267a8a8e2ec99fe77585cf3d9443736a2a32eec1203bd973434ca"
+    },
+    {
+      "path": ".gitignore",
+      "document_class": "repository-config",
+      "authority": "operational",
+      "status": "ACTIVE",
+      "updated": "2026-08-29",
+      "bytes": 490,
+      "sha256": "dc2008dc1d71ac5ba682f1310f56acfbbe4191d3577d60d8cc2e52ff90320987"
+    },
+    {
+      "path": "AGENTS.md",
+      "document_class": "process",
+      "authority": "governing",
+      "status": "ACTIVE",
+      "updated": "2026-08-29",
+      "bytes": 10610,
+      "sha256": "d893a0335f3f0355bec7cb444d8c7b014dbc6c8a9090f3fc338c5c7160edd754"
+    },
+    {
+      "path": "ARCHITECTURE.md",
+      "document_class": "architecture",
+      "authority": "governing",
+      "status": "ACTIVE",
+      "updated": "2026-08-29",
+      "bytes": 11391,
+      "sha256": "416e73065f8af842c60cb5876dd4d9f36c1300e6384a68c8f38892ec7b0e3c8f"
+    },
+    {
+      "path": "CONTRIBUTING.md",
+      "document_class": "process",
+      "authority": "governing-contribution",
+      "status": "ACTIVE",
+      "updated": "2026-08-29",
+      "bytes": 1801,
+      "sha256": "9df78d226eafcb77a77b5b1a73518eaf9bcb5eb44af96114113d3ea76bdc67d3"
+    },
+    {
+      "path": "CURRENT_SLICE.md",
+      "document_class": "current-slice",
+      "authority": "sole-live-implementation-authority",
+      "status": "ACTIVE",
+      "updated": "2026-08-29",
+      "bytes": 10800,
+      "sha256": "b1dcac489f1c922872d131f1ea9e6f6e473ba993df8394928b5b7210bfaf8a04"
+    },
+    {
+      "path": "GOVERNANCE.md",
+      "document_class": "process",
+      "authority": "governing",
+      "status": "ACTIVE",
+      "updated": "2026-08-29",
+      "bytes": 9136,
+      "sha256": "e836352b19023e4d5fbc4b704859e6d7a618dbf12665e154a511fcb438f1524b"
+    },
+    {
+      "path": "PROJECT_STATUS.md",
+      "document_class": "status",
+      "authority": "descriptive-evidence-mapped",
+      "status": "ACTIVE",
+      "updated": "2026-08-29",
+      "bytes": 8378,
+      "sha256": "fc45227cde05f01a3ac863838bc3b45b9f267234af62bfa87a6164ffbbce5f42"
+    },
+    {
+      "path": "README.md",
+      "document_class": "navigation",
+      "authority": "descriptive",
+      "status": "ACTIVE",
+      "updated": "2026-08-29",
+      "bytes": 6461,
+      "sha256": "74ff23a426c53c5d622778e52347f26d582fb0a6751f51a6e42efb373e18cb94"
+    },
+    {
+      "path": "SECURITY.md",
+      "document_class": "process",
+      "authority": "reporting",
+      "status": "ACTIVE",
+      "updated": "2026-08-29",
+      "bytes": 857,
+      "sha256": "38c66ba096413027f4a8f81d11a0673f5d6831279602646bf80bed83587dd494"
+    },
+    {
+      "path": "UP_TO_SPEED.md",
+      "document_class": "process",
+      "authority": "governing",
+      "status": "ACTIVE",
+      "updated": "2026-08-29",
+      "bytes": 5305,
+      "sha256": "0ebca7d64129b4e87d514096ff1c2599c3e9688b9a551d924e5f4ee3973546d5"
+    },
+    {
+      "path": "docs/contracts/MQTT_DEVICE_CONTRACT_DRAFT.md",
+      "document_class": "draft-contract",
+      "authority": "non-authoritative",
+      "status": "ACTIVE",
+      "updated": "2026-08-29",
+      "bytes": 8798,
+      "sha256": "a3306af9a38c5cedf7aaa0e2f151695fcf3338036a54619803054b55cb343b4d"
+    },
+    {
+      "path": "docs/decisions/ADR_TEMPLATE.md",
+      "document_class": "process-template",
+      "authority": "operational",
+      "status": "ACTIVE",
+      "updated": "2026-08-29",
+      "bytes": 1455,
+      "sha256": "54c12d74444d6f2da421a22b463862b7b100fec9d4eb9f9950aa5c6b4101fa54"
+    },
+    {
+      "path": "docs/decisions/README.md",
+      "document_class": "process",
+      "authority": "governing-decision-method",
+      "status": "ACTIVE",
+      "updated": "2026-08-29",
+      "bytes": 944,
+      "sha256": "18908239d08dc715113d6c4189d599cdfa916411613c9f05f922d9495cb943ec"
+    },
+    {
+      "path": "docs/dossiers/PREMORTEM_RISK_AND_UNKNOWN_REGISTER.md",
+      "document_class": "risk-dossier",
+      "authority": "governing-risk-grounding",
+      "status": "ACTIVE",
+      "updated": "2026-08-29",
+      "bytes": 17581,
+      "sha256": "9722c25917c5ef0d004bd4b9d549e2012f3b4e5bbed661204539378280e37011"
+    },
+    {
+      "path": "docs/dossiers/PROJECT_AT_A_GLANCE.md",
+      "document_class": "design-dossier",
+      "authority": "governing-intent",
+      "status": "ACTIVE",
+      "updated": "2026-08-29",
+      "bytes": 7111,
+      "sha256": "f1c19cecadc2753ed7ad7818bf7d4c29ce11f1d0419ee5a6955944dbc7ebf6f1"
+    },
+    {
+      "path": "docs/dossiers/SYSTEM_GOVERNING_DESIGN.md",
+      "document_class": "design-dossier",
+      "authority": "governing-intent",
+      "status": "ACTIVE",
+      "updated": "2026-08-29",
+      "bytes": 25351,
+      "sha256": "15509ab21c837c519657bca5e2499cb0ec1b3e080cb7b423168292235c699843"
+    },
+    {
+      "path": "docs/dossiers/VERIFICATION_FIELD_TRIAL_AND_PORTFOLIO_GOVERNING_DESIGN.md",
+      "document_class": "design-dossier",
+      "authority": "governing-intent",
+      "status": "ACTIVE",
+      "updated": "2026-08-29",
+      "bytes": 13875,
+      "sha256": "d0888798047989a543eff352e9f1cb9961b5c69bccf4a9d02ac137bfb2895691"
+    },
+    {
+      "path": "docs/research/COMPONENT_CANDIDATES.md",
+      "document_class": "research",
+      "authority": "non-authoritative",
+      "status": "ACTIVE",
+      "updated": "2026-08-29",
+      "bytes": 15009,
+      "sha256": "8c80ee9c186df2f3af50b12558c523be2747b3ed4f591b9cbef795f973b67766"
+    },
+    {
+      "path": "docs/research/FEASIBILITY_AND_SIZING_MODEL.md",
+      "document_class": "research",
+      "authority": "non-authoritative",
+      "status": "ACTIVE",
+      "updated": "2026-08-29",
+      "bytes": 14657,
+      "sha256": "7025b3111cdcf341bb159a8abe0ce6ca4fce6b46a60c75e53fb17a64b4d383db"
+    },
+    {
+      "path": "docs/research/REFERENCE_SHADE_MEASUREMENT_WORKSHEET.md",
+      "document_class": "evidence-template",
+      "authority": "slice-support",
+      "status": "ACTIVE",
+      "updated": "2026-08-29",
+      "bytes": 9476,
+      "sha256": "f024a8b15d917e219ccb278fcaf001bf152663d6a2a646959f7e90db372f47b5"
+    },
+    {
+      "path": "docs/research/SOURCE_REGISTER.md",
+      "document_class": "source-register",
+      "authority": "provenance",
+      "status": "ACTIVE",
+      "updated": "2026-08-29",
+      "bytes": 11376,
+      "sha256": "b96175529a8966968e963d9eecf7414e7127320a867f940396ea1d571b173f03"
+    },
+    {
+      "path": "evidence/README.md",
+      "document_class": "evidence-process",
+      "authority": "governing-evidence-method",
+      "status": "ACTIVE",
+      "updated": "2026-08-29",
+      "bytes": 1424,
+      "sha256": "61d6591d18d7218152529bcf021c032575148c51dd228cc74b7e30fe15ef7b9e"
+    },
+    {
+      "path": "evidence/s0-reference-shade/README.md",
+      "document_class": "evidence-placeholder",
+      "authority": "not-started",
+      "status": "NOT_STARTED",
+      "updated": "2026-08-29",
+      "bytes": 692,
+      "sha256": "0e409bb85ca8007f4f6c5490f604eedc89a6397dbe5815aa49787eb305de402c"
+    }
+  ]
+}
